@@ -1,1 +1,5 @@
-klucz: 'testowy wart kluczassssssss'
+klucz: 'testowy wart klucza - 12:48'
+
+endpoints:
+  restart:
+    enabled: true
